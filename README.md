@@ -2,6 +2,7 @@
 
 ## Links
 
+- Mozilla Developer Network: https://developer.mozilla.org/de/
 - Lizenzierung: https://choosealicense.com/
 - Package Managment:
   - NPM: https://www.npmjs.com/
@@ -10,6 +11,10 @@
   - Verdaccio: https://github.com/verdaccio/verdaccio
   - Sinopia: https://github.com/rlidwka/sinopia
 - NPM Scripts https://docs.npmjs.com/misc/scripts
+- Style guides:
+  - JavaScript Standard: https://standardjs.com/
+  - Google JavaScript Style Guide: https://google.github.io/styleguide/jsguide.html
+  - Airbnb Style Guide: https://github.com/airbnb/javascript
 
 ## NPM
 
