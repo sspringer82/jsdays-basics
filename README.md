@@ -18,6 +18,9 @@
 - JavaScript WAT: https://www.destroyallsoftware.com/talks/wat
 - ECMAScript Standard: https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 - TypeScript: https://www.typescriptlang.org/
+- Faker.js: https://github.com/marak/Faker.js/
+- GCC: https://developers.google.com/closure/compiler
+- Uglify: https://github.com/mishoo/UglifyJS
 
 ## NPM
 
