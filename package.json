@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/sspringer82/jsdays-basics/issues"
   },
-  "homepage": "https://github.com/sspringer82/jsdays-basics#readme"
+  "homepage": "https://github.com/sspringer82/jsdays-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  }
 }
