@@ -15,6 +15,8 @@
   - JavaScript Standard: https://standardjs.com/
   - Google JavaScript Style Guide: https://google.github.io/styleguide/jsguide.html
   - Airbnb Style Guide: https://github.com/airbnb/javascript
+- JavaScript WAT: https://www.destroyallsoftware.com/talks/wat
+- ECMAScript Standard: https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 
 ## NPM
 
