@@ -17,6 +17,7 @@
   - Airbnb Style Guide: https://github.com/airbnb/javascript
 - JavaScript WAT: https://www.destroyallsoftware.com/talks/wat
 - ECMAScript Standard: https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+- TypeScript: https://www.typescriptlang.org/
 
 ## NPM
 
