@@ -1,0 +1,23 @@
+{
+  "name": "jsdays-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "Sebastian Springer",
+    "email": "sebastian.springer@maibornwolff.de"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspringer82/jsdays-basics.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sspringer82/jsdays-basics/issues"
+  },
+  "homepage": "https://github.com/sspringer82/jsdays-basics#readme"
+}
