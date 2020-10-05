@@ -15,6 +15,11 @@ function asyncCallback(callback) {
   }, 1000);
 }
 
+/* <button id="foo">click me</button>
+document.getElementById('foo').addEventListener('click', (e) => {
+
+}); */
+
 // CB funktion definieren
 const callbackFn = function (value) {
   console.log('CallbackFn: ', value);
